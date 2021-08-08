@@ -1,0 +1,1 @@
+Swap two integers using the temporary variable. Repeat the same exercises using the code format a,b = b,a . Verify the results in both the cases.

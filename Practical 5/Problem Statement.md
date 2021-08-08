@@ -1,0 +1,1 @@
+Find all numbers which are multiple of 17, but not the multiple of 5, between 2000 and 2500?
