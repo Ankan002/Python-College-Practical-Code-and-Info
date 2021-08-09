@@ -1,0 +1,1 @@
+Write a function myReverse() which reverses a string as an input and returns the reverse of that string.
