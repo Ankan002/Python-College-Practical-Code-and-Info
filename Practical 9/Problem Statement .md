@@ -1,0 +1,1 @@
+Given a string check if it is palindrome
