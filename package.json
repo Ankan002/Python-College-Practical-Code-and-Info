@@ -1,0 +1,23 @@
+{
+  "name": "python-practicals",
+  "version": "1.0.0",
+  "description": "This is my Python Practical for 5th semester",
+  "main": "index.js",
+  "dependencies": {
+    "django": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankan002/Python-College-Practical-Code-and-Info.git"
+  },
+  "author": "Ankan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankan002/Python-College-Practical-Code-and-Info/issues"
+  },
+  "homepage": "https://github.com/Ankan002/Python-College-Practical-Code-and-Info#readme"
+}
